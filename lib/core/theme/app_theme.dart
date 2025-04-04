@@ -6,11 +6,11 @@ class AppTheme {
       scaffoldBackgroundColor: const Color.fromARGB(255, 216, 215, 215),
       primarySwatch: Colors.blue,
       appBarTheme: const AppBarTheme(
-        backgroundColor: Color.fromARGB(203, 33, 149, 243),
+        backgroundColor: Color.fromARGB(255, 33, 149, 243),
         foregroundColor: Colors.white,
       ),
       bottomNavigationBarTheme: const BottomNavigationBarThemeData(
-        backgroundColor: Color.fromARGB(203, 33, 149, 243),
+        backgroundColor: Color.fromARGB(255, 33, 149, 243),
         selectedItemColor: Colors.white,
         unselectedItemColor: Colors.white70,
       ),

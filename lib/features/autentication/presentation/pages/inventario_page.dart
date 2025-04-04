@@ -34,7 +34,7 @@ class _InventarioPageState extends State<InventarioPage> {
               ),
               child: Text(
                 'Menú Principal',
-                style: TextStyle(color: Colors.white, fontSize: 24),
+                style: TextStyle(color: Colors.white70, fontSize: 24),
               ),
             ),
             ListTile(

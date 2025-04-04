@@ -1,4 +1,4 @@
-
+// lib/core/widgets/app_navbar.dart
 import 'package:flutter/material.dart';
 import 'package:inventario/features/autentication/presentation/pages/nuevo_producto.dart';
 
